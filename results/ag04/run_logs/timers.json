@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1676807931",
+        "python_version": "3.10.8 (main, Feb 16 2023, 22:01:59) [Clang 14.0.0 (clang-1400.0.29.202)]",
+        "command_line_arguments": "/Users/david/.pyenv/versions/3.10.8/bin/mlagents-learn agent_config.yaml --run-id ag04 --resume",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.11.0",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1676807943"
+    },
+    "total": 11.675930792000145,
+    "count": 1,
+    "self": 0.013470793011947535,
+    "children": {
+        "run_training.setup": {
+            "total": 0.02167366599314846,
+            "count": 1,
+            "self": 0.02167366599314846
+        },
+        "TrainerController.start_learning": {
+            "total": 11.640786332995049,
+            "count": 1,
+            "self": 0.001783956991857849,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 11.638972125001601,
+                    "count": 1,
+                    "self": 11.638972125001601
+                },
+                "trainer_threads": {
+                    "total": 1.958993379957974e-06,
+                    "count": 1,
+                    "self": 1.958993379957974e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 2.8292008209973574e-05,
+                    "count": 1,
+                    "self": 2.8292008209973574e-05
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "PlatformRotate": {
+        "checkpoints": [
+            {
+                "steps": 219826,
+                "file_path": "results/ag02/PlatformRotate/PlatformRotate-219826.onnx",
+                "reward": -0.6666666666666666,
+                "creation_time": 1676804998.668301,
+                "auxillary_file_paths": [
+                    "results/ag02/PlatformRotate/PlatformRotate-219826.pt"
+                ]
+            },
+            {
+                "steps": 221539,
+                "file_path": "results/ag02/PlatformRotate/PlatformRotate-221539.onnx",
+                "reward": -0.5,
+                "creation_time": 1676805001.1088068,
+                "auxillary_file_paths": [
+                    "results/ag02/PlatformRotate/PlatformRotate-221539.pt"
+                ]
+            },
+            {
+                "steps": 299999,
+                "file_path": "results/ag02/PlatformRotate/PlatformRotate-299999.onnx",
+                "reward": -0.7058823529411765,
+                "creation_time": 1676805137.3970282,
+                "auxillary_file_paths": [
+                    "results/ag02/PlatformRotate/PlatformRotate-299999.pt"
+                ]
+            },
+            {
+                "steps": 399992,
+                "file_path": "results/ag02/PlatformRotate/PlatformRotate-399992.onnx",
+                "reward": 0.0,
+                "creation_time": 1676805264.546357,
+                "auxillary_file_paths": [
+                    "results/ag02/PlatformRotate/PlatformRotate-399992.pt"
+                ]
+            },
+            {
+                "steps": 447243,
+                "file_path": "results/ag02/PlatformRotate/PlatformRotate-447243.onnx",
+                "reward": -0.8947368421052632,
+                "creation_time": 1676805324.1036491,
+                "auxillary_file_paths": [
+                    "results/ag02/PlatformRotate/PlatformRotate-447243.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 447243,
+            "file_path": "results/ag02/PlatformRotate.onnx",
+            "reward": -0.8947368421052632,
+            "creation_time": 1676805324.1036491,
+            "auxillary_file_paths": [
+                "results/ag02/PlatformRotate/PlatformRotate-447243.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

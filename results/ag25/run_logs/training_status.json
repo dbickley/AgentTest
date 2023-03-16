@@ -1,0 +1,119 @@
+{
+    "PlatformRotate": {
+        "checkpoints": [
+            {
+                "steps": 3999980,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-3999980.onnx",
+                "reward": 9.27735658792349,
+                "creation_time": 1677230316.465587,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-3999980.pt"
+                ]
+            },
+            {
+                "steps": 4999695,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-4999695.onnx",
+                "reward": 9.80267200867335,
+                "creation_time": 1677234189.59428,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-4999695.pt"
+                ]
+            },
+            {
+                "steps": 5999971,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-5999971.onnx",
+                "reward": 9.809819369480527,
+                "creation_time": 1677238060.640378,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-5999971.pt"
+                ]
+            },
+            {
+                "steps": 6999995,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-6999995.onnx",
+                "reward": 9.959423902299669,
+                "creation_time": 1677241908.953537,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-6999995.pt"
+                ]
+            },
+            {
+                "steps": 7060537,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-7060537.onnx",
+                "reward": 10.097092860453838,
+                "creation_time": 1677242146.4118521,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-7060537.pt"
+                ]
+            },
+            {
+                "steps": 7060537,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-7060537.onnx",
+                "reward": null,
+                "creation_time": 1677244159.565208,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-7060537.pt"
+                ]
+            },
+            {
+                "steps": 7060537,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-7060537.onnx",
+                "reward": null,
+                "creation_time": 1677244176.314365,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-7060537.pt"
+                ]
+            },
+            {
+                "steps": 7147941,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-7147941.onnx",
+                "reward": 12.58306074142456,
+                "creation_time": 1677245047.499328,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-7147941.pt"
+                ]
+            },
+            {
+                "steps": 7499729,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-7499729.onnx",
+                "reward": 15.138761882781983,
+                "creation_time": 1677245607.433849,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-7499729.pt"
+                ]
+            },
+            {
+                "steps": 7660156,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-7660156.onnx",
+                "reward": 15.468867015838622,
+                "creation_time": 1677245801.281597,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-7660156.pt"
+                ]
+            },
+            {
+                "steps": 8000512,
+                "file_path": "results/ag25/PlatformRotate/PlatformRotate-8000512.onnx",
+                "reward": 15.162431359291077,
+                "creation_time": 1677247266.036383,
+                "auxillary_file_paths": [
+                    "results/ag25/PlatformRotate/PlatformRotate-8000512.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8000512,
+            "file_path": "results/ag25/PlatformRotate.onnx",
+            "reward": 15.162431359291077,
+            "creation_time": 1677247266.036383,
+            "auxillary_file_paths": [
+                "results/ag25/PlatformRotate/PlatformRotate-8000512.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

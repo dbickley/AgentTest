@@ -1,0 +1,65 @@
+{
+    "PlatformRotate": {
+        "checkpoints": [
+            {
+                "steps": 299970,
+                "file_path": "results/ag04/PlatformRotate/PlatformRotate-299970.onnx",
+                "reward": null,
+                "creation_time": 1676807552.4339058,
+                "auxillary_file_paths": [
+                    "results/ag04/PlatformRotate/PlatformRotate-299970.pt"
+                ]
+            },
+            {
+                "steps": 399948,
+                "file_path": "results/ag04/PlatformRotate/PlatformRotate-399948.onnx",
+                "reward": -1.0,
+                "creation_time": 1676807647.023745,
+                "auxillary_file_paths": [
+                    "results/ag04/PlatformRotate/PlatformRotate-399948.pt"
+                ]
+            },
+            {
+                "steps": 499981,
+                "file_path": "results/ag04/PlatformRotate/PlatformRotate-499981.onnx",
+                "reward": -0.946078431372549,
+                "creation_time": 1676807742.352445,
+                "auxillary_file_paths": [
+                    "results/ag04/PlatformRotate/PlatformRotate-499981.pt"
+                ]
+            },
+            {
+                "steps": 599978,
+                "file_path": "results/ag04/PlatformRotate/PlatformRotate-599978.onnx",
+                "reward": -1.0,
+                "creation_time": 1676807837.983574,
+                "auxillary_file_paths": [
+                    "results/ag04/PlatformRotate/PlatformRotate-599978.pt"
+                ]
+            },
+            {
+                "steps": 682402,
+                "file_path": "results/ag04/PlatformRotate/PlatformRotate-682402.onnx",
+                "reward": -1.0,
+                "creation_time": 1676807917.37379,
+                "auxillary_file_paths": [
+                    "results/ag04/PlatformRotate/PlatformRotate-682402.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 682402,
+            "file_path": "results/ag04/PlatformRotate.onnx",
+            "reward": -1.0,
+            "creation_time": 1676807917.37379,
+            "auxillary_file_paths": [
+                "results/ag04/PlatformRotate/PlatformRotate-682402.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "PlatformRotate": {
+        "checkpoints": [
+            {
+                "steps": 651330,
+                "file_path": "results/ag05/PlatformRotate/PlatformRotate-651330.onnx",
+                "reward": -0.9908814589665653,
+                "creation_time": 1676808874.592351,
+                "auxillary_file_paths": [
+                    "results/ag05/PlatformRotate/PlatformRotate-651330.pt"
+                ]
+            },
+            {
+                "steps": 999996,
+                "file_path": "results/ag05/PlatformRotate/PlatformRotate-999996.onnx",
+                "reward": -1.0,
+                "creation_time": 1676809429.940099,
+                "auxillary_file_paths": [
+                    "results/ag05/PlatformRotate/PlatformRotate-999996.pt"
+                ]
+            },
+            {
+                "steps": 1204471,
+                "file_path": "results/ag05/PlatformRotate/PlatformRotate-1204471.onnx",
+                "reward": -1.0,
+                "creation_time": 1676809729.3653388,
+                "auxillary_file_paths": [
+                    "results/ag05/PlatformRotate/PlatformRotate-1204471.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1204471,
+            "file_path": "results/ag05/PlatformRotate.onnx",
+            "reward": -1.0,
+            "creation_time": 1676809729.3653388,
+            "auxillary_file_paths": [
+                "results/ag05/PlatformRotate/PlatformRotate-1204471.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

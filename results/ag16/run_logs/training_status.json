@@ -1,0 +1,29 @@
+{
+    "PlatformRotate": {
+        "checkpoints": [
+            {
+                "steps": 181471,
+                "file_path": "results/ag16/PlatformRotate/PlatformRotate-181471.onnx",
+                "reward": -3.8692492602664665,
+                "creation_time": 1677208048.0404758,
+                "auxillary_file_paths": [
+                    "results/ag16/PlatformRotate/PlatformRotate-181471.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 181471,
+            "file_path": "results/ag16/PlatformRotate.onnx",
+            "reward": -3.8692492602664665,
+            "creation_time": 1677208048.0404758,
+            "auxillary_file_paths": [
+                "results/ag16/PlatformRotate/PlatformRotate-181471.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}
